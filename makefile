@@ -7,4 +7,4 @@ tidy:
 	go mod vendor
 
 run:
-	go run app/services/sales-api/main.go
+	go run main.go
